@@ -1,0 +1,80 @@
+c:\users\my\documents\visual studio 2015\Projects\SE\SE\bin\Debug\SE.exe.config
+C:\Users\my\Documents\Visual Studio 2015\Projects\SE\SE\bin\Debug\SE.exe
+C:\Users\my\Documents\Visual Studio 2015\Projects\SE\SE\bin\Debug\SE.pdb
+C:\Users\my\Documents\Visual Studio 2015\Projects\SE\SE\obj\Debug\MainWindow.g.cs
+C:\Users\my\Documents\Visual Studio 2015\Projects\SE\SE\obj\Debug\App.g.cs
+C:\Users\my\Documents\Visual Studio 2015\Projects\SE\SE\obj\Debug\SE_MarkupCompile.cache
+C:\Users\my\Documents\Visual Studio 2015\Projects\SE\SE\obj\Debug\SE_MarkupCompile.lref
+C:\Users\my\Documents\Visual Studio 2015\Projects\SE\SE\obj\Debug\MainWindow.baml
+C:\Users\my\Documents\Visual Studio 2015\Projects\SE\SE\obj\Debug\SE.g.resources
+C:\Users\my\Documents\Visual Studio 2015\Projects\SE\SE\obj\Debug\SE.Properties.Resources.resources
+C:\Users\my\Documents\Visual Studio 2015\Projects\SE\SE\obj\Debug\SE.csproj.GenerateResource.Cache
+C:\Users\my\Documents\Visual Studio 2015\Projects\SE\SE\obj\Debug\SE.exe
+C:\Users\my\Documents\Visual Studio 2015\Projects\SE\SE\obj\Debug\SE.pdb
+C:\Users\my\Documents\Visual Studio 2015\Projects\SE\SE\obj\Debug\SE.csprojResolveAssemblyReference.cache
+C:\Users\my\Documents\Visual Studio 2015\Projects\SE\SE\obj\Debug\ModelProperties.g.cs
+C:\Users\my\Documents\Visual Studio 2015\Projects\SE\SE\obj\Debug\ModelProperties.baml
+C:\Users\drc\Desktop\SE\SE\bin\Debug\SE.exe.config
+C:\Users\drc\Desktop\SE\SE\obj\Debug\SE.exe
+C:\Users\drc\Desktop\SE\SE\obj\Debug\SE.pdb
+C:\Users\drc\Desktop\SE\SE\obj\Debug\SE.csprojResolveAssemblyReference.cache
+C:\Users\drc\Desktop\SE\SE\obj\Debug\MainWindow.g.cs
+C:\Users\drc\Desktop\SE\SE\obj\Debug\ModelPropertiesWindow.g.cs
+C:\Users\drc\Desktop\SE\SE\obj\Debug\App.g.cs
+C:\Users\drc\Desktop\SE\SE\obj\Debug\SE_MarkupCompile.cache
+C:\Users\drc\Desktop\SE\SE\obj\Debug\SE_MarkupCompile.lref
+C:\Users\drc\Desktop\SE\SE\bin\Debug\SE.exe
+C:\Users\drc\Desktop\SE\SE\bin\Debug\SE.pdb
+C:\Users\drc\Desktop\SE\SE\obj\Debug\MainWindow.baml
+C:\Users\drc\Desktop\SE\SE\obj\Debug\ModelPropertiesWindow.baml
+C:\Users\drc\Desktop\SE\SE\obj\Debug\SE.g.resources
+C:\Users\drc\Desktop\SE\SE\obj\Debug\SE.Properties.Resources.resources
+C:\Users\drc\Desktop\SE\SE\obj\Debug\SE.csproj.GenerateResource.Cache
+E:\SE\SE\bin\Debug\SE.exe.config
+E:\SE\SE\obj\Debug\SE.exe
+E:\SE\SE\obj\Debug\SE.pdb
+E:\SE\SE\bin\Debug\SE.exe
+E:\SE\SE\bin\Debug\SE.pdb
+E:\SE\SE\obj\Debug\SE.csprojResolveAssemblyReference.cache
+E:\SE\SE\obj\Debug\MainWindow.g.cs
+E:\SE\SE\obj\Debug\ModelPropertiesWindow.g.cs
+E:\SE\SE\obj\Debug\App.g.cs
+E:\SE\SE\obj\Debug\SE_MarkupCompile.cache
+E:\SE\SE\obj\Debug\SE_MarkupCompile.lref
+E:\SE\SE\obj\Debug\MainWindow.baml
+E:\SE\SE\obj\Debug\ModelPropertiesWindow.baml
+E:\SE\SE\obj\Debug\SE.g.resources
+E:\SE\SE\obj\Debug\SE.Properties.Resources.resources
+E:\SE\SE\obj\Debug\SE.csproj.GenerateResource.Cache
+E:\SE\SE\bin\Debug\AttributeEditor.exe
+E:\SE\SE\bin\Debug\Interop.SolidEdge.dll
+E:\SE\SE\bin\Debug\SolidEdge.Community.dll
+E:\SE\SE\bin\Debug\AttributeEditor.pdb
+E:\SE\SE\bin\Debug\Interop.SolidEdge.xml
+E:\SE\SE\bin\Debug\SolidEdge.Community.xml
+C:\Users\drc\Desktop\SE\SE\bin\Debug\Interop.SolidEdge.dll
+C:\Users\drc\Desktop\SE\SE\bin\Debug\SolidEdge.Community.dll
+C:\Users\drc\Desktop\SE\SE\bin\Debug\Interop.SolidEdge.xml
+C:\Users\drc\Desktop\SE\SE\bin\Debug\SolidEdge.Community.xml
+C:\Users\drc\Desktop\SE - 副本\SE\bin\Debug\SE.exe.config
+C:\Users\drc\Desktop\SE - 副本\SE\obj\Debug\SE.exe
+C:\Users\drc\Desktop\SE - 副本\SE\obj\Debug\SE.pdb
+C:\Users\drc\Desktop\SE - 副本\SE\bin\Debug\SE.exe
+C:\Users\drc\Desktop\SE - 副本\SE\bin\Debug\SE.pdb
+C:\Users\drc\Desktop\SE - 副本\SE\bin\Debug\AttributeEditor.exe
+C:\Users\drc\Desktop\SE - 副本\SE\bin\Debug\Interop.SolidEdge.dll
+C:\Users\drc\Desktop\SE - 副本\SE\bin\Debug\SolidEdge.Community.dll
+C:\Users\drc\Desktop\SE - 副本\SE\bin\Debug\AttributeEditor.pdb
+C:\Users\drc\Desktop\SE - 副本\SE\bin\Debug\Interop.SolidEdge.xml
+C:\Users\drc\Desktop\SE - 副本\SE\bin\Debug\SolidEdge.Community.xml
+C:\Users\drc\Desktop\SE - 副本\SE\obj\Debug\SE.csprojResolveAssemblyReference.cache
+C:\Users\drc\Desktop\SE - 副本\SE\obj\Debug\MainWindow.g.cs
+C:\Users\drc\Desktop\SE - 副本\SE\obj\Debug\ModelPropertiesWindow.g.cs
+C:\Users\drc\Desktop\SE - 副本\SE\obj\Debug\App.g.cs
+C:\Users\drc\Desktop\SE - 副本\SE\obj\Debug\SE_MarkupCompile.cache
+C:\Users\drc\Desktop\SE - 副本\SE\obj\Debug\SE_MarkupCompile.lref
+C:\Users\drc\Desktop\SE - 副本\SE\obj\Debug\MainWindow.baml
+C:\Users\drc\Desktop\SE - 副本\SE\obj\Debug\ModelPropertiesWindow.baml
+C:\Users\drc\Desktop\SE - 副本\SE\obj\Debug\SE.g.resources
+C:\Users\drc\Desktop\SE - 副本\SE\obj\Debug\SE.Properties.Resources.resources
+C:\Users\drc\Desktop\SE - 副本\SE\obj\Debug\SE.csproj.GenerateResource.Cache
